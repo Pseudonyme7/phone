@@ -90,7 +90,7 @@ export default function Home() {
             {/* Réparation d'écran */}
             <div className="dark-card rounded-2xl p-8">
               <div className="text-4xl mb-4 animate-float">📱</div>
-              <h3 className="text-2xl font-bold text-luxury mb-4">Réparation d'écran</h3>
+              <h3 className="text-2xl font-bold text-luxury mb-4">Réparation d&apos;écran</h3>
               <p className="text-muted-dark mb-6">
                 Écran fissuré ? Pas de panique ! Nous redonnons à votre téléphone sa beauté d&apos;antan.
               </p>
@@ -350,7 +350,7 @@ export default function Home() {
             <div>
               <h4 className="font-semibold mb-4 text-luxury">Services</h4>
               <ul className="space-y-2 text-muted-dark">
-                <li className="hover:text-accent transition-colors cursor-pointer">Réparation d'écran</li>
+                <li className="hover:text-accent transition-colors cursor-pointer">Réparation d&apos;écran</li>
                 <li className="hover:text-accent transition-colors cursor-pointer">Remplacement batterie</li>
                 <li className="hover:text-accent transition-colors cursor-pointer">Réparation caméra</li>
                 <li className="hover:text-accent transition-colors cursor-pointer">Nettoyage complet</li>
