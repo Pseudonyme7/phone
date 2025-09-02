@@ -64,7 +64,7 @@ export default function Home() {
             </h1>
             <p className="text-xl md:text-2xl text-muted-dark mb-8 max-w-3xl mx-auto">
               Réparation professionnelle et rapide de tous vos appareils mobiles. 
-              Expertise technique, garantie qualité, et un soupçon d'humour pour détendre l'atmosphère.
+              Expertise technique, garantie qualité, et un soupçon d&apos;humour pour détendre l&apos;atmosphère.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <button className="text-white px-8 py-4 rounded-full text-lg font-semibold btn-premium glow-accent">
@@ -92,7 +92,7 @@ export default function Home() {
               <div className="text-4xl mb-4 animate-float">📱</div>
               <h3 className="text-2xl font-bold text-luxury mb-4">Réparation d'écran</h3>
               <p className="text-muted-dark mb-6">
-                Écran fissuré ? Pas de panique ! Nous redonnons à votre téléphone sa beauté d'antan.
+                Écran fissuré ? Pas de panique ! Nous redonnons à votre téléphone sa beauté d&apos;antan.
               </p>
               <div className="text-3xl font-bold text-accent mb-2">499 DH</div>
               <p className="text-sm text-gray-500">(ou une demi-âme, selon votre préférence)</p>
@@ -103,7 +103,7 @@ export default function Home() {
               <div className="text-4xl mb-4 animate-float" style={{animationDelay: '0.5s'}}>🔋</div>
               <h3 className="text-2xl font-bold text-luxury mb-4">Batterie neuve</h3>
               <p className="text-muted-dark mb-6">
-                Votre téléphone s'éteint plus vite qu'une bougie dans le vent ? On s'en occupe !
+                Votre téléphone s&apos;éteint plus vite qu&apos;une bougie dans le vent ? On s&apos;en occupe !
               </p>
               <div className="text-3xl font-bold text-accent mb-2">299 DH</div>
               <p className="text-sm text-gray-500">(finies les prises électriques en otage)</p>
@@ -114,7 +114,7 @@ export default function Home() {
               <div className="text-4xl mb-4 animate-float" style={{animationDelay: '1s'}}>🔘</div>
               <h3 className="text-2xl font-bold text-luxury mb-4">Boutons & Connecteurs</h3>
               <p className="text-muted-dark mb-6">
-                Bouton d'alimentation capricieux ? Port de charge rebelle ? Nous les remettons au pas.
+                Bouton d&apos;alimentation capricieux ? Port de charge rebelle ? Nous les remettons au pas.
               </p>
               <div className="text-3xl font-bold text-accent mb-2">199 DH</div>
               <p className="text-sm text-gray-500">(thérapie de couple incluse)</p>
@@ -166,11 +166,11 @@ export default function Home() {
               </h2>
               <p className="text-lg text-muted-dark mb-6">
                 Chez <strong className="text-accent">Assyah QuickFix</strong>, nous sommes des passionnés de technologie mobile 
-                avec plus de 8 ans d'expérience dans la réparation. Notre mission ? Redonner vie à 
-                vos appareils avec professionnalisme, rapidité et une pointe d'humour.
+                avec plus de 8 ans d&apos;expérience dans la réparation. Notre mission ? Redonner vie à 
+                vos appareils avec professionnalisme, rapidité et une pointe d&apos;humour.
               </p>
               <p className="text-lg text-muted-dark mb-8">
-                Nous croyons qu'une réparation réussie, c'est un client satisfait qui repart avec 
+                Nous croyons qu&apos;une réparation réussie, c&apos;est un client satisfait qui repart avec 
                 le sourire. Chaque appareil qui passe entre nos mains bénéficie de notre expertise 
                 technique et de notre garantie qualité.
               </p>
@@ -190,7 +190,7 @@ export default function Home() {
                 <div className="text-8xl mb-4 animate-float">🛠️</div>
                 <h3 className="text-2xl font-bold text-luxury mb-4">Notre Philosophie</h3>
                 <p className="text-muted-dark">
-                  "Un téléphone réparé avec soin vaut mieux que deux neufs en panne"
+                  &ldquo;Un téléphone réparé avec soin vaut mieux que deux neufs en panne&rdquo;
                 </p>
               </div>
             </div>
@@ -233,7 +233,7 @@ export default function Home() {
               </div>
               <h3 className="text-xl font-bold text-luxury mb-4">Test & Livraison</h3>
               <p className="text-muted-dark">
-                Tests complets pour s'assurer que tout fonctionne parfaitement, puis nous vous rendons votre appareil comme neuf !
+                Tests complets pour s&apos;assurer que tout fonctionne parfaitement, puis nous vous rendons votre appareil comme neuf !
               </p>
             </div>
           </div>
@@ -307,7 +307,7 @@ export default function Home() {
                   />
                 </div>
                 <div>
-                  <label className="block text-sm font-medium text-luxury mb-2">Type d'appareil</label>
+                  <label className="block text-sm font-medium text-luxury mb-2">Type d&apos;appareil</label>
                   <select className="w-full px-4 py-3 bg-gray-800 border border-gray-600 rounded-lg text-white focus:ring-2 focus:ring-indigo-500 focus:border-transparent">
                     <option>iPhone</option>
                     <option>Samsung</option>
